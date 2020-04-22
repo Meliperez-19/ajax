@@ -1,0 +1,19 @@
+{
+	"algo": [
+	{
+		"Nombre": "leydis",
+		"Apellido": "morales",
+		"Cedula": "2453787"
+	},
+	{
+		"Nombre": "juan",
+		"Apellido": "pastrana",
+		"Cedula": "3546789"
+	},
+	{
+		"Nombre": "shayra",
+		"Apellido": "perez",
+		"Cedula": "8976895"
+	}
+	]
+}
